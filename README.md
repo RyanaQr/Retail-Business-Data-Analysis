@@ -32,11 +32,12 @@ Retail-Business-SQL-Project/
 │   ├── payments.csv
 │   ├── payment_methods.csv
 │   ├── clients.csv
-│   └── other dataset tables
 │
 ├── Retail_business_analysis_Data_retrieval_queries.sql   # File 01 — Data retrieval & joins
 └── Retail_business_queries_with_multiple_tables.sql      # File 02 — Complex queries & aggregations
-├── README.md
+│
+├── Business Insights and solutions.txt                   # Business insights and solution after data analysis
+└── README.md
 
 ```
 ## Technologies Used
