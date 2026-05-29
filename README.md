@@ -36,6 +36,10 @@ Retail-Business-SQL-Project/
 ├── Retail_business_analysis_Data_retrieval_queries.sql   # File 01 — Data retrieval & joins
 └── Retail_business_queries_with_multiple_tables.sql      # File 02 — Complex queries & aggregations
 │
+├── Client Distribution visualization.png                 # Visualization-01
+├── Payment method visualization.png                      # Visualization-02
+├── Window function visualization.png                     # Visualization-03
+│
 ├── Business Insights and solutions.txt                   # Business insights and solution after data analysis
 └── README.md
 
@@ -98,6 +102,14 @@ Retail-Business-SQL-Project/
 - Aggregate functions: `SUM`, `COUNT`, `GROUP BY`, `HAVING`
 - Window functions: `SUM() OVER`, `ROW_NUMBER() OVER`, `RANK() OVER`
 - Regular expressions: `REGEXP`
+
+---
+
+## Query Visualizations
+
+![Invoice totals by client](Client distr viz.png)
+![Payment method distribution](Payment method viz.png)
+![Window function ranking](Window function viz.png)
 
 ---
 
