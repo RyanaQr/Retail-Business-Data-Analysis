@@ -105,11 +105,11 @@ Retail-Business-SQL-Project/
 
 ---
 
-## Query Visualizations
+## | Query | Visualizations | 
 
-![Invoice totals by client](Client distr viz.png)
-![Payment method distribution](Payment method viz.png)
-![Window function ranking](Window function viz.png)
+- ![Invoice totals by client](Client distr viz.png)
+- ![Payment method distribution](Payment method viz.png)
+- ![Window function ranking](Window function viz.png)
 
 ---
 
